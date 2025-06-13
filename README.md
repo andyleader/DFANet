@@ -10,6 +10,6 @@ This is a total architecture of our network:
 ![DFANet Architecture](https://github.com/andyleader/DFANet/blob/48ef7ecc94f559d303a362203dc9f9ae971c2492/image.png)
 
 ## Dataset
-1. MUUFL dataset: https://github.com/GatorSense/MUUFLGulfport
-2. Houston 2013 dataset: https://hyperspectral.ee.uh.edu/?page_id=459
-3. Houston 2018 dataset: https://hyperspectral.ee.uh.edu/?page_id=1075
+1. Trento dataset: https://github.com/A-Piece-Of-Maple/TrentoDateset
+2. Muufl dataset: https://github.com/GatorSense/MUUFLGulfport
+3. Houston 2013 dataset: https://ieee-dataport.org/documents/hyperspectral-data-0
